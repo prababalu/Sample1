@@ -5,7 +5,7 @@ import android.content.Context;
 import android.renderscript.RSSurfaceView;
 import android.renderscript.RenderScriptGL;
 import android.view.SurfaceHolder;
-//Custom class
+
 public class FallingSnowView extends RSSurfaceView {
 	private RenderScriptGL mRSGL; 
 	private SnowRS mRender;
